@@ -12,7 +12,7 @@ The project utilizes a dataset from Kaggle named 'banksim', which contains trans
 
 The project employs decision trees and artificial neural networks (ANN) for fraud detection. Key methods include:
 
-> Data preprocessing and visualization to understand transaction patterns.
+**Data preprocessing and visualization to understand transaction patterns.**
 > Implementation of decision trees with optimized hyperparameters.
 > Construction of an ANN model using Keras, with techniques like SMOTE for oversampling and normalization using MinMaxScaler.
 > Evaluation of models using accuracy, precision, recall, and F1 scores.
