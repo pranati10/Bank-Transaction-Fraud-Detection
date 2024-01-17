@@ -1,6 +1,6 @@
 # Bank Fraud Detection Using Machine Learning
 
-***Overview**
+**Overview**
 
 This project focuses on developing a sophisticated fraud detection system for banking using machine learning techniques. The system aims to increase the accuracy and efficiency of detecting fraudulent transactions.
 
